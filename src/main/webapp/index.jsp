@@ -194,7 +194,7 @@ body {
 
         <!-- Main hero unit for a primary marketing message or call to action -->
         <div class="hero-unit">
-            <h1>Ye olde Beer shop - now VHV BeerShop</h1>
+            <h1>VHV Beer SHop</h1>
             <p>Showing the finest selection of beers in the world.</p>
         </div>
 
